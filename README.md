@@ -1,4 +1,10 @@
-## Hi there 👋
+# Jahnavi Aleti
+
+Product engineer in Dallas. I built [People Remotely](https://peopleremotely.com), a two-sided hiring marketplace, at People Prime Worldwide.
+
+**People Remotely** — [code](https://github.com/qwrwtdycuvjbk/primescale) · [site](https://peopleremotely.com)
+
+Companies post jobs. Candidates submit profiles. A company sees a candidate only after admin approval. Built with Next.js, React, Tailwind, and Supabase, and deployed on Vercel.
 
 <!--
 **qwrwtdycuvjbk/qwrwtdycuvjbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
